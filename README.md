@@ -8,11 +8,11 @@ usage: parse_vcf.py [-h] [-o output_file] input_file
 input_file  input VCF file (required)
 
 Example:
->python parse_vcf.py sample.vcf
-chr20:10019093A>G
-chr20:10026348A>G
-chr20:10026357T>C
-chr20:10030188T>A
+>python parse_vcf.py sample.vcf\
+chr20:10019093A>G\
+chr20:10026348A>G\
+chr20:10026357T>C\
+chr20:10030188T>A\
 ...
 
 Requires Python3.6 or later
